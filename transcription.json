@@ -1,0 +1,333 @@
+{
+  "task": "transcribe",
+  "language": "english",
+  "duration": 75,
+  "text": "There it is. Come on. Take it. Duel of crashing waves. That was pretty fun. That was worth coming down for. Woohoo! Duel of crashing waves. Beauty. Alright. We'll fast travel back up the mountain. And we will... Oh, where are you? There you are. Now we'll do this. It's going to be tough with no resolve and no arrow.",
+  "segments": [
+    {
+      "id": 0,
+      "seek": 0,
+      "start": 0,
+      "end": 10.119999885559082,
+      "text": " There it is.",
+      "tokens": [
+        50364,
+        314,
+        675,
+        265,
+        309,
+        307,
+        13,
+        50870
+      ],
+      "temperature": 1,
+      "avg_logprob": -1.5771747827529907,
+      "compression_ratio": 0.7241379022598267,
+      "no_speech_prob": 0.3757091462612152
+    },
+    {
+      "id": 1,
+      "seek": 0,
+      "start": 10.119999885559082,
+      "end": 19.68000030517578,
+      "text": " Come on.",
+      "tokens": [
+        50870,
+        2492,
+        322,
+        13,
+        51348
+      ],
+      "temperature": 1,
+      "avg_logprob": -1.5771747827529907,
+      "compression_ratio": 0.7241379022598267,
+      "no_speech_prob": 0.3757091462612152
+    },
+    {
+      "id": 2,
+      "seek": 1968,
+      "start": 19.68000030517578,
+      "end": 37.279998779296875,
+      "text": " Take it.",
+      "tokens": [
+        50364,
+        3664,
+        309,
+        13,
+        51244
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.8351688385009766,
+      "compression_ratio": 0.8983050584793091,
+      "no_speech_prob": 0.03319615125656128
+    },
+    {
+      "id": 3,
+      "seek": 1968,
+      "start": 37.279998779296875,
+      "end": 38.560001373291016,
+      "text": " Duel of crashing waves.",
+      "tokens": [
+        51244,
+        413,
+        3483,
+        295,
+        26900,
+        9417,
+        13,
+        51308
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.8351688385009766,
+      "compression_ratio": 0.8983050584793091,
+      "no_speech_prob": 0.03319615125656128
+    },
+    {
+      "id": 4,
+      "seek": 1968,
+      "start": 38.560001373291016,
+      "end": 42.560001373291016,
+      "text": " That was pretty fun.",
+      "tokens": [
+        51308,
+        663,
+        390,
+        1238,
+        1019,
+        13,
+        51508
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.8351688385009766,
+      "compression_ratio": 0.8983050584793091,
+      "no_speech_prob": 0.03319615125656128
+    },
+    {
+      "id": 5,
+      "seek": 4256,
+      "start": 42.560001373291016,
+      "end": 50.2400016784668,
+      "text": " That was worth coming down for.",
+      "tokens": [
+        50364,
+        663,
+        390,
+        3163,
+        1348,
+        760,
+        337,
+        13,
+        50748
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5562807321548462,
+      "compression_ratio": 1.2789115905761719,
+      "no_speech_prob": 0.08021076768636703
+    },
+    {
+      "id": 6,
+      "seek": 4256,
+      "start": 50.2400016784668,
+      "end": 52.119998931884766,
+      "text": " Woohoo!",
+      "tokens": [
+        50748,
+        10468,
+        19069,
+        0,
+        50842
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5562807321548462,
+      "compression_ratio": 1.2789115905761719,
+      "no_speech_prob": 0.08021076768636703
+    },
+    {
+      "id": 7,
+      "seek": 4256,
+      "start": 52.119998931884766,
+      "end": 54.400001525878906,
+      "text": " Duel of crashing waves.",
+      "tokens": [
+        50842,
+        413,
+        3483,
+        295,
+        26900,
+        9417,
+        13,
+        50956
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5562807321548462,
+      "compression_ratio": 1.2789115905761719,
+      "no_speech_prob": 0.08021076768636703
+    },
+    {
+      "id": 8,
+      "seek": 4256,
+      "start": 54.400001525878906,
+      "end": 55.400001525878906,
+      "text": " Beauty.",
+      "tokens": [
+        50956,
+        21450,
+        13,
+        51006
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5562807321548462,
+      "compression_ratio": 1.2789115905761719,
+      "no_speech_prob": 0.08021076768636703
+    },
+    {
+      "id": 9,
+      "seek": 4256,
+      "start": 55.400001525878906,
+      "end": 56.400001525878906,
+      "text": " Alright.",
+      "tokens": [
+        51006,
+        2798,
+        13,
+        51056
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5562807321548462,
+      "compression_ratio": 1.2789115905761719,
+      "no_speech_prob": 0.08021076768636703
+    },
+    {
+      "id": 10,
+      "seek": 4256,
+      "start": 56.400001525878906,
+      "end": 63.720001220703125,
+      "text": " We'll fast travel back up the mountain.",
+      "tokens": [
+        51056,
+        492,
+        603,
+        2370,
+        3147,
+        646,
+        493,
+        264,
+        6937,
+        13,
+        51422
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5562807321548462,
+      "compression_ratio": 1.2789115905761719,
+      "no_speech_prob": 0.08021076768636703
+    },
+    {
+      "id": 11,
+      "seek": 4256,
+      "start": 63.720001220703125,
+      "end": 64.72000122070312,
+      "text": " And we will...",
+      "tokens": [
+        51422,
+        400,
+        321,
+        486,
+        485,
+        51472
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5562807321548462,
+      "compression_ratio": 1.2789115905761719,
+      "no_speech_prob": 0.08021076768636703
+    },
+    {
+      "id": 12,
+      "seek": 4256,
+      "start": 64.72000122070312,
+      "end": 65.72000122070312,
+      "text": " Oh, where are you?",
+      "tokens": [
+        51472,
+        876,
+        11,
+        689,
+        366,
+        291,
+        30,
+        51522
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5562807321548462,
+      "compression_ratio": 1.2789115905761719,
+      "no_speech_prob": 0.08021076768636703
+    },
+    {
+      "id": 13,
+      "seek": 4256,
+      "start": 65.72000122070312,
+      "end": 66.72000122070312,
+      "text": " There you are.",
+      "tokens": [
+        51522,
+        821,
+        291,
+        366,
+        13,
+        51572
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5562807321548462,
+      "compression_ratio": 1.2789115905761719,
+      "no_speech_prob": 0.08021076768636703
+    },
+    {
+      "id": 14,
+      "seek": 4256,
+      "start": 66.72000122070312,
+      "end": 67.72000122070312,
+      "text": " Now we'll do this.",
+      "tokens": [
+        51572,
+        823,
+        321,
+        603,
+        360,
+        341,
+        13,
+        51622
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.5562807321548462,
+      "compression_ratio": 1.2789115905761719,
+      "no_speech_prob": 0.08021076768636703
+    },
+    {
+      "id": 15,
+      "seek": 6772,
+      "start": 67.72000122070312,
+      "end": 75.08000183105469,
+      "text": " It's going to be tough with no resolve and no arrow.",
+      "tokens": [
+        50364,
+        467,
+        311,
+        516,
+        281,
+        312,
+        4930,
+        365,
+        572,
+        14151,
+        293,
+        572,
+        11610,
+        13,
+        50732
+      ],
+      "temperature": 0,
+      "avg_logprob": -0.6416190266609192,
+      "compression_ratio": 0.9285714030265808,
+      "no_speech_prob": 0.3846268951892853
+    }
+  ]
+}
